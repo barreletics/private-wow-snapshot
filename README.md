@@ -1,2 +1,0 @@
-# private-wow-snapshot
-snapshot
